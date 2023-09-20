@@ -1,0 +1,9 @@
+.body{
+    background: linear-gradient(80deg,#1af5dc,#4496f5)
+}
+.main-heading{
+    font-family:'Phudu', cursive;;
+    color: black;
+    font-style: bold;
+    font-size: 80px;
+}
